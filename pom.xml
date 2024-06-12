@@ -37,7 +37,6 @@
         <configuration>
           <outputDirectory>${project.build.directory}</outputDirectory>
           <failOnMissingWebXml>false</failOnMissingWebXml>
-          <warName>simple-java-maven-app</warName>
         </configuration>
       </plugin>
       <plugin>
